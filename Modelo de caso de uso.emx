@@ -1352,6 +1352,15 @@
           <children xmi:type="notation:BasicDecorationNode" xmi:id="__X6HcDgCEeuKKvUbSIEB5A" type="Parent"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="__X5gYTgCEeuKKvUbSIEB5A" x="19272" y="3828"/>
         </children>
+        <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_6STmID0REeumA-qyGfkw2A" element="_6Rz24D0REeumA-qyGfkw2A" fontName="Segoe UI" fontHeight="8" showListSignature="true" fillColor="15912618" transparency="0" lineColor="15912618" lineWidth="1" showStereotype="Image">
+          <children xmi:type="notation:DecorationNode" xmi:id="_6SUNMD0REeumA-qyGfkw2A" type="ImageCompartment">
+            <layoutConstraint xmi:type="notation:Size" xmi:id="_6SUNMT0REeumA-qyGfkw2A" width="1455" height="2381"/>
+          </children>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_6SUNMj0REeumA-qyGfkw2A" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_6SUNMz0REeumA-qyGfkw2A" type="Name"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_6SUNND0REeumA-qyGfkw2A" type="Parent"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6STmIT0REeumA-qyGfkw2A" x="10133" y="6932"/>
+        </children>
         <element xsi:nil="true"/>
       </contents>
     </eAnnotations>
@@ -1582,6 +1591,7 @@
       <memberEnd href="#_NyR1kDgfEeuKKvUbSIEB5A?Modelo%20de%20caso%20de%20uso/Actores/%3CAsociación%3E/cI_Cajero?"/>
       <memberEnd href="Modelo%20de%20Análisis.emx#_NyTDsDgfEeuKKvUbSIEB5A?Modelo%20de%20Análisis/Caja/RA_mantener_cajeros/CI_Cajero/administrador?"/>
     </packagedElement>
+    <packagedElement xmi:type="uml:Actor" xmi:id="_6Rz24D0REeumA-qyGfkw2A" name="Git"/>
   </packagedElement>
   <packagedElement xmi:type="uml:Package" xmi:id="_g4Xb0DgCEeuKKvUbSIEB5A" name="Casos de Uso">
     <eAnnotations xmi:id="_g4YC4DgCEeuKKvUbSIEB5A" source="uml2.diagrams" references="_g4YC4TgCEeuKKvUbSIEB5A">
